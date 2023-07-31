@@ -1,4 +1,4 @@
-Melquíades project. Un ejemplo de projecto devops.
+Melquíades project. Devops proyect sample.
     
 Pendents:
     Add configuration file for aws account
